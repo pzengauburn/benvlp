@@ -41,7 +41,7 @@ print(fit$rho_accept)             # acceptance rate for rho
 print(fit$nu_accept)              # acceptance rate for nu 
 print(fit$posterior_mean)         # posterior means 
 
-par(mfrow = c(1, 2)); 
+# par(mfrow = c(1, 2)); 
 plot(fit$samples$Amat[1, 1, ], type = "l"); 
 acf(fit$samples$Amat[1, 1, ]); 
 
@@ -56,3 +56,4 @@ print(ans$beta$HPD_upp);          # 95% HPD intervals, upper limit
 ######################################################################
 # THE END 
 ######################################################################
+
