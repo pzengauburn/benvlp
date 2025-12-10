@@ -6,10 +6,10 @@ The envelope model provides a dimension-reduction framework for multivariate lin
 
 ## List of files 
 
-- preprint 12/9/2025 (rolem-v2.pdf)
-- supplementary material 12/10/2025 (supplement-v2.pdf)
-- example for fitting rolem (demo.R)
-- example for simulation studies (ex-1.R)
+- preprint 12/9/2025 [rolem-v2.pdf]
+- supplementary material 12/10/2025 [supplement-v2.pdf]
+- example for fitting rolem [demo.R]
+- example for simulation studies [ex-1.R]
 
 ## Reference 
 
