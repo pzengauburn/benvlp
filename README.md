@@ -3,6 +3,7 @@
 This repository contains a collection of code and preprints for Bayesian inference for envelope models. 
 
 - [rolem](rolem/): A Bayesian approach for robust longitudinal envelope models
+    * arXiv (https://arxiv.org/abs/2512.09553) 
 - benvlp_0.1-0.tar.gz: Version 0.1-0 provides the following functions 
     * rolem(): robust longitudinal envelope models assuming t-distributed random errors
     * lem(): longitudinal envelope models assuming normally-distributed random errors
