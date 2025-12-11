@@ -15,5 +15,5 @@ The envelope model provides a dimension-reduction framework for multivariate lin
 
 Peng Zeng and Yushan Mu (2025).
 A Bayesian Approach for Robust Longitudinal Envelope Models.
-- arXiv
+- arXiv (https://arxiv.org/abs/2512.09553)
 
